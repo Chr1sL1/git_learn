@@ -1,7 +1,7 @@
 test line 1
 test line 2
-test line 3
-test line 4 ex
+test line 3 ex & exex
+test line 4 ex & exex
 test line 5 ex
 test line 6
 test line 7
