@@ -4,5 +4,5 @@ test line 3 ex & exex
 test line 4 ex & exex
 test line 5 ex
 test line 6
-test line 7
-test line 8
+test line 7 exex
+test line 8 exex
